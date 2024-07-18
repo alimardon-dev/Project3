@@ -18,5 +18,6 @@ p{
     background-color: red;
 }
 #outer-box{
-    border: 10px solid purple;
+    background-color: purple;
+    padding: 10px;
 }
